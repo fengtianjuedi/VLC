@@ -1,0 +1,5 @@
+*.nupkg
+/packages/VideoLAN.LibVLC.Windows.3.0.11/*.nupkg
+/VLCTest/bin
+/VLCTest/obj
+/VLCTest.v12.suo
